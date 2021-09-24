@@ -24,3 +24,5 @@ One more change that I won't add before committing it!
 One last edit for now!
 
 Edit
+
+Changes made in the GitHub desktop app
